@@ -1,0 +1,6 @@
+pandas
+akshare
+openpyxl
+streamlit
+requests
+json5
